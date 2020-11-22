@@ -1,7 +1,3 @@
 {
-    "token":"NzYyOTY3NjA3NjU3MjM0NDMz.X3w29A.ILMiYRVyZ2mNx_ADhUk1Hnt1mhg",
-    "prefix": "m/",
-    "everyoneMention": false,
-    "hostedBy": true,
-    "mongoPath": "mongodb://localhost:27017"
+ 
 }
