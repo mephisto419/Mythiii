@@ -1,6 +1,6 @@
 const { MessageEmbed } = require('discord.js');
-const { list } = require('../util/utils');
-const signs = require('../signs.json');
+
+
 const snekfetch = require('snekfetch');
 module.exports.run = async ( { sign }, message, args) => {
     
